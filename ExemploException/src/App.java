@@ -28,5 +28,6 @@ public class App {
             System.out.println("Executou o bloco independente de erro.");
             System.out.println("Fim do programa.");
         }
+
     }
 }
