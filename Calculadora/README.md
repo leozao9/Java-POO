@@ -1,18 +1,39 @@
-## Getting Started
+# Projeto: Calculadora
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi desenvolvido para praticar conceitos básicos  
+de **Programação Orientada a Objetos (POO)** em Java, aplicando  
+estrutura de classes, atributos, métodos e interações com o usuário.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎯 Objetivo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Criar uma calculadora simples que realiza operações matemáticas  
+básicas como adição, subtração, multiplicação e divisão,  
+utilizando a estrutura de orientação a objetos.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🧱 Estrutura das classes
 
-## Dependency Management
+- `Calculadora`: classe principal que contém os métodos responsáveis  
+  pelas operações matemáticas e pela lógica de controle.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🛠️ Conceitos aplicados
+
+- Encapsulamento
+- Métodos com parâmetros e retorno
+- Estrutura condicional
+- Organização de código em classes
+- Interação com o usuário via console
+
+---
+
+## 📌 Observações
+
+Este projeto é um exemplo introdutório, com foco na prática de  
+POO e na construção de programas simples e funcionais.  
+Pode ser expandido com mais funcionalidades, como cálculo de potência,  
+raízes, ou até uma interface gráfica futuramente.

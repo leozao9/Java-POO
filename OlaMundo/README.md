@@ -1,18 +1,35 @@
-## Getting Started
+# Projeto: OlaMundo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é o projeto mais básico de qualquer linguagem de programação:  
+exibir uma mensagem simples no console.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎯 Objetivo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Demonstrar a estrutura mínima de um programa Java,  
+com foco em familiarizar-se com a sintaxe básica e o uso do método `main`.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🧱 Estrutura das classes
 
-## Dependency Management
+- Classe principal contendo o método `main`,  
+  responsável por exibir a mensagem "Olá, Mundo!" no terminal.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🛠️ Conceitos aplicados
+
+- Sintaxe básica da linguagem Java
+- Método `main` como ponto de entrada da aplicação
+- Uso do `System.out.println()` para saída no console
+- Primeiros passos com a estrutura de um programa orientado a objetos
+
+---
+
+## 📌 Observações
+
+Apesar de simples, este projeto é o primeiro passo no aprendizado em Java.  
+É essencial para entender a estrutura básica e preparar o ambiente  
+para projetos mais avançados.

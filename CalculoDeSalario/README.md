@@ -1,18 +1,39 @@
-## Getting Started
+# Projeto: CalculoDeSalario
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi desenvolvido para praticar o cálculo de salário  
+utilizando os conceitos de **Programação Orientada a Objetos (POO)**  
+em Java, aplicando classes, métodos e manipulação de atributos.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎯 Objetivo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Implementar um sistema simples para calcular o salário líquido de um funcionário,  
+considerando descontos e benefícios, aplicando regras básicas de cálculo.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🧱 Estrutura das classes
 
-## Dependency Management
+- `Funcionario`: classe que armazena os dados do funcionário, como salário bruto,  
+  descontos e benefícios.
+- `CalculoDeSalario`: classe responsável por realizar o cálculo do salário líquido,  
+  usando os dados fornecidos pela classe `Funcionario`.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🛠️ Conceitos aplicados
+
+- Encapsulamento
+- Métodos para cálculo e retorno de valores
+- Manipulação de atributos privados
+- Organização do código em classes e objetos
+- Simplicidade e clareza na implementação
+
+---
+
+## 📌 Observações
+
+Este projeto é uma base para sistemas maiores que envolvem folha de pagamento.  
+Pode ser ampliado com funcionalidades como diferentes tipos de descontos,  
+adicionais, impostos e integração com interfaces gráficas ou banco de dados.

@@ -1,18 +1,35 @@
-## Getting Started
+# Projeto: ProjetoTabuleiro
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi desenvolvido para simular um **tabuleiro de jogo**,  
+praticando conceitos de programação orientada a objetos em Java.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎯 Objetivo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Criar uma representação de um tabuleiro com posições que podem ser manipuladas,  
+permitindo a implementação de jogos simples ou lógicas relacionadas.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🧱 Estrutura das classes
 
-## Dependency Management
+- Classe que representa o tabuleiro, com matriz ou estrutura para armazenar posições.
+- Métodos para inicializar, modificar e exibir o estado do tabuleiro.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🛠️ Conceitos aplicados
+
+- Uso de arrays multidimensionais
+- Manipulação de matrizes
+- Métodos para atualização e visualização de dados
+- Organização da lógica em classes e métodos
+
+---
+
+## 📌 Observações
+
+Este projeto serve como base para criação de jogos de tabuleiro simples,  
+como jogo da velha, damas ou outros.  
+Pode ser expandido com implementação de regras de jogo, controle de turnos e interface gráfica.

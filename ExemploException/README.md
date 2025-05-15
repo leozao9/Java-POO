@@ -1,18 +1,38 @@
-## Getting Started
+# Projeto: ExemploException
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi criado para demonstrar o uso de **tratamento de exceções**  
+em Java, um recurso essencial para lidar com erros de forma segura e controlada  
+durante a execução de programas.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎯 Objetivo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Apresentar como capturar, tratar e lançar exceções em Java,  
+utilizando os blocos `try`, `catch` e `finally`, além da cláusula `throw`.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🧱 Estrutura das classes
 
-## Dependency Management
+- Classe com métodos que podem lançar exceções.
+- Blocos de tratamento utilizados para capturar e tratar possíveis erros  
+  de forma apropriada.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🛠️ Conceitos aplicados
+
+- Blocos `try`, `catch`, `finally`
+- Lançamento de exceções com `throw`
+- Criação e uso de exceções personalizadas
+- Fluxo de execução com erros tratados
+- Boa prática na construção de aplicações robustas
+
+---
+
+## 📌 Observações
+
+Este projeto é útil para compreender o fluxo de tratamento de erros em Java.  
+Pode ser ampliado com mais cenários de exceções,  
+como leitura de arquivos, entrada de dados e validações.

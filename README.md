@@ -17,4 +17,4 @@ Além de tópicos complementares como:
 - **Tratamento de exceções**
 - **Enums**
 - **Vetores**
-- **Trabalho com datas e entrada de usuário** 
+- **Trabalho com datas e entrada de usuário**

@@ -1,18 +1,37 @@
-## Getting Started
+# Projeto: ExemploConstrutor
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi desenvolvido para exemplificar o uso de **construtores**  
+em Programação Orientada a Objetos (POO) com Java.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎯 Objetivo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Demonstrar como utilizar construtores para inicializar objetos,  
+garantindo que os atributos sejam configurados no momento da criação.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🧱 Estrutura das classes
 
-## Dependency Management
+- Classes simples que possuem construtores definidos para inicializar atributos.
+- Exemplos que mostram diferentes formas de utilizar construtores,  
+  incluindo sobrecarga.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🛠️ Conceitos aplicados
+
+- Construtores
+- Sobrecarga de métodos
+- Inicialização de objetos
+- Encapsulamento
+- Organização de código orientado a objetos
+
+---
+
+## 📌 Observações
+
+Projeto básico para reforçar o entendimento sobre construtores em Java.  
+Pode ser expandido para incluir construtores com validação de dados  
+e outras formas de inicialização.

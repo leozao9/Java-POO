@@ -1,18 +1,36 @@
-## Getting Started
+# Projeto: ExemploVetor
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi desenvolvido para praticar o uso de **vetores (arrays)**  
+em Java, um dos conceitos fundamentais na programação.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎯 Objetivo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Demonstrar como declarar, inicializar e manipular vetores,  
+percorrendo seus elementos e aplicando operações básicas.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🧱 Estrutura das classes
 
-## Dependency Management
+- Classe principal que realiza a criação de vetores, preenchimento de dados  
+  e exibição dos elementos com laços de repetição.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🛠️ Conceitos aplicados
+
+- Declaração e inicialização de vetores
+- Acesso e modificação de elementos por índice
+- Uso de estruturas de repetição (`for`, `foreach`)
+- Armazenamento sequencial de dados
+- Manipulação simples de estruturas lineares
+
+---
+
+## 📌 Observações
+
+Este projeto é uma base importante para a compreensão de estruturas de dados.  
+Pode ser expandido para incluir operações como ordenação, busca,  
+vetores multidimensionais e uso em algoritmos mais complexos.

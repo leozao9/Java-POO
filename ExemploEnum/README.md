@@ -1,18 +1,36 @@
-## Getting Started
+# Projeto: ExemploEnum
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi desenvolvido para exemplificar o uso de **enumerações (enum)**  
+em Java dentro do contexto da Programação Orientada a Objetos (POO).
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎯 Objetivo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Mostrar como utilizar `enum` para representar conjuntos fixos de constantes,  
+organizando melhor o código e aumentando a legibilidade e segurança.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🧱 Estrutura das classes
 
-## Dependency Management
+- Enum definido com constantes representando valores fixos.
+- Classe principal que utiliza o enum em condições e exibições.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🛠️ Conceitos aplicados
+
+- Enumerações (`enum`)
+- Controle de fluxo com `switch`
+- Organização e clareza de código
+- Integração de enums com classes
+- Tipagem segura em tempo de compilação
+
+---
+
+## 📌 Observações
+
+Este projeto ajuda a entender como o uso de enums melhora a legibilidade  
+e evita erros com valores literais.  
+Pode ser expandido com enums mais complexos contendo atributos e métodos.

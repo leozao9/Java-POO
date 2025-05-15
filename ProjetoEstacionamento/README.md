@@ -1,18 +1,36 @@
-## Getting Started
+# Projeto: ProjetoEstacionamento
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi criado para simular o controle de um **estacionamento**,  
+registrando dados de veículos e aplicando regras de permanência e cobrança.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎯 Objetivo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Gerenciar a entrada e saída de veículos em um estacionamento,  
+permitindo calcular o tempo de permanência e o valor a ser pago.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🧱 Estrutura das classes
 
-## Dependency Management
+- `Estacionamento`: classe que armazena informações como placa, hora de entrada e saída.
+- Métodos para cálculo do tempo de permanência e valor total com base em regras simples.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🛠️ Conceitos aplicados
+
+- Encapsulamento
+- Manipulação de datas e horas
+- Cálculos com base em intervalos de tempo
+- Criação de métodos para exibir e processar dados
+- Simulação de sistema de gestão
+
+---
+
+## 📌 Observações
+
+Este projeto pode ser aprimorado com recursos como controle de vagas,  
+validação de horários, emissão de recibos e persistência de dados.  
+É uma ótima base para projetos mais completos na área de automação de serviços.

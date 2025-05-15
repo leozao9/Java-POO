@@ -1,18 +1,34 @@
-## Getting Started
+# Projeto: ProjetoApolice
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi criado para simular o funcionamento de uma **apólice de seguro**,  
+aplicando conceitos de Programação Orientada a Objetos (POO) em Java.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎯 Objetivo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Representar uma apólice de seguro com seus atributos e comportamentos,  
+permitindo visualizar e aplicar descontos com base em critérios definidos.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🧱 Estrutura das classes
 
-## Dependency Management
+- `Apolice`: classe que representa uma apólice, contendo informações como nome do segurado,  
+  idade e valor do prêmio. Também possui métodos para calcular descontos e exibir dados.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🛠️ Conceitos aplicados
+
+- Encapsulamento
+- Criação e uso de métodos
+- Condicionais (`if`, `else`)
+- Boa prática na organização de atributos e comportamentos de uma classe
+
+---
+
+## 📌 Observações
+
+Este projeto é uma introdução prática à modelagem de objetos do mundo real em código.  
+Pode ser expandido com novas regras de negócio, métodos de validação e interface com o usuário.

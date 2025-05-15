@@ -1,18 +1,38 @@
-## Getting Started
+# Projeto: ControleDeCaixa
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi criado para simular o funcionamento básico de um  
+**controle de caixa**, utilizando conceitos de Programação Orientada a Objetos (POO)  
+em Java.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎯 Objetivo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Desenvolver um sistema simples para registrar entradas e saídas financeiras,  
+permitindo controlar o saldo do caixa de maneira organizada e eficiente.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🧱 Estrutura das classes
 
-## Dependency Management
+- `Caixa`: classe principal que gerencia o saldo, registros de entradas e saídas.
+- `Registro`: classe que representa uma movimentação financeira, contendo informações  
+  como valor, descrição e tipo (entrada ou saída).
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🛠️ Conceitos aplicados
+
+- Encapsulamento
+- Manipulação de objetos e coleções
+- Métodos para adicionar, remover e consultar movimentações
+- Controle de fluxo para atualização do saldo
+- Organização e reutilização de código
+
+---
+
+## 📌 Observações
+
+Projeto introdutório para controle financeiro simples.  
+Pode ser expandido com funcionalidades como relatórios, categorias,  
+persistência de dados e interface gráfica.

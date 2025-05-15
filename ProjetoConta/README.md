@@ -1,18 +1,36 @@
-## Getting Started
+# Projeto: ProjetoConta
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi criado para representar uma **conta bancária simples**,  
+aplicando conceitos fundamentais de Programação Orientada a Objetos (POO) em Java.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎯 Objetivo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Simular operações básicas de uma conta bancária, como depósito, saque e exibição de saldo,  
+reforçando a prática de encapsulamento e criação de métodos.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🧱 Estrutura das classes
 
-## Dependency Management
+- `Conta`: classe principal contendo atributos como nome do titular, número da conta  
+  e saldo. Inclui métodos para realizar operações e visualizar os dados da conta.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🛠️ Conceitos aplicados
+
+- Encapsulamento
+- Criação de métodos para manipular dados
+- Regras de negócio simples aplicadas ao saldo
+- Construtor para inicializar objetos
+- Validação de operações com condicionais
+
+---
+
+## 📌 Observações
+
+Este projeto é ideal para treinar a lógica por trás de sistemas bancários básicos.  
+Pode ser expandido para incluir limite de crédito, extrato, transferências entre contas  
+e autenticação de usuários.

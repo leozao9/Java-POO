@@ -1,18 +1,35 @@
-## Getting Started
+# Projeto: ProjetoTipoConta
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi desenvolvido para demonstrar diferentes **tipos de conta bancária**,  
+utilizando conceitos de herança e polimorfismo em Java.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎯 Objetivo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Criar classes que representam diferentes tipos de contas, como conta corrente e conta poupança,  
+com comportamentos específicos para cada tipo.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🧱 Estrutura das classes
 
-## Dependency Management
+- Classe base `Conta` com atributos e métodos comuns.
+- Classes derivadas que estendem `Conta` e implementam funcionalidades específicas.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🛠️ Conceitos aplicados
+
+- Herança
+- Polimorfismo
+- Sobrescrita de métodos (`override`)
+- Encapsulamento
+- Criação e uso de construtores
+
+---
+
+## 📌 Observações
+
+Este projeto é ideal para entender a modelagem de objetos com comportamentos variados.  
+Pode ser ampliado com mais tipos de contas e regras específicas de negócio para cada uma.
